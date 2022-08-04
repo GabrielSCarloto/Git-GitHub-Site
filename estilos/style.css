@@ -18,3 +18,7 @@ main {
 h1, h2 {
     color: darkred;
 }
+
+p {
+    color: purple;
+}
